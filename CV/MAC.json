@@ -1,0 +1,50 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Pedro",
+      "surnames": "García Fernández",
+      "title": "Me gustan los datos, los aviones, las finanzas .... y mil cosas más.",
+      "description": "Mi pasión es la aeronáutica, así como aprender y trastear con todo tipo de tecnologías (no en profundidad).  Mis primeros 3-5 años, fueron desarrollando sistemas GIS de tráfico y pasarelas de contratación de bolsa, posterioremente, y es mi mayor experiencia muy ligada a entornos aeroportuarios siendo la base de todo mi experiencia en integración de sistemas, con ESBs, al principio desde el punto de vista técnico y después desde el punto de vista de coordinación de proyectos de puesta en marcha. Escribí un libro sobre tecnologías en los aeropuertos, integración de sistemas, etc. En los aeropuertos he participado en proyectos ya de toda índole, primeras implantaciones de sistemas, gestión de los actores del ciclo de vida de sistemas (cliente, aeropuertos, desarrolladores, etc.), aperturas de nuevas terminales aeroportuarias, pruebas de previas de puesta en explotación, etc. En 2019, queriendo dar una nueva vida a mi carrera, realicé un Bootcamp de Machine Learning y BigData en keepcoding, lo que me sirvió para ganar un concurso de ideas de I+D en mi empresa, y que me dejaron realizar sobre temas de BigData y blockchain aplicados a la medición de CO2 en el transporte aéreo y que nos permitió presentarla en el BigThings Conference de 2020. Me gusta mucho conocer soluciones técnicas, ayudar a otros a ver si les encajan, etc. Mi trabajo ideal sería poder trastear con soluciones, hacer pruebas de concepto, prospección de tecnologías, etc. Un trabajo creativo en el día a día y con resultados útiles y visibles.",
+      "avatar": {
+        "alt": "1516316286521.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/e430e199-af4c-4785-9bcc-47120df38196_1516316286521.jpg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/pedrogarciafernandez/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/pgfernandez"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/aeriaablog"
+      },
+      {
+        "type": "other",
+        "URL": "http://www.aeriaa.com"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/pedrogarciafernandez/"
+        }
+      ]
+    }
+  }
+}
