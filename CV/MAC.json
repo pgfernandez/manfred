@@ -143,6 +143,8 @@
     },
     "preferences": {
       "preferredRoles": [
+        "Business Operations & Strategy",
+        "Data Analysis & BI",
         "Data Engineer",
         "Data Scientist",
         "IT Manager",
